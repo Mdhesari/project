@@ -1,11 +1,27 @@
  /* In the name of god */
  /* public */
- body{
-     background:#d2d2d2;
-     margin:0;
-     padding:0;
+ body {
+     background: #d2d2d2;
+     margin: 0;
+     padding: 0;
  }
 
- .title{
-     margin:20px; 
+ .title {
+     margin: 40px;
+     margin-bottom:10rem;
+     font-size:42px;
+ }
+
+ .container {
+     padding-left: 20px;
+     padding-right: 20px;
+     margin: 0 auto;
+ }
+
+ .box {
+     background:#dd0000;
+     color:#f1f2f3;
+     padding:5px;
+     text-align:center;
+     font-size:22px;
  }
